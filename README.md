@@ -1,6 +1,6 @@
 # redshift-monitor
 
-redshift-monitor allows you to capture, save, and analyze AWS Redshift performance metrics with Tableau Desktop. 
+redshift-monitor allows you to capture, save, and analyze AWS Redshift performance metrics with Tableau Desktop.
 
 ### It includes:
 
@@ -12,11 +12,11 @@ Getting Started
 ---------------
 For an in-depth setup guide, please see the [Setup Wiki](https://github.com/russch/redshift-monitor/wiki/Setup)
 
-To learn about the Tableau workbook and the information you can analyze, read the  [Wiki Home](https://github.com/russch/redshift-monitor/wiki) page. 
+To learn about the Tableau workbook and the information you can analyze, read the  [Wiki Home](https://github.com/russch/redshift-monitor/wiki) page.
 
 Is redshift-monitor supported?
 ---------------
-Redshift Monitor is made available AS-IS with no support. is made available AS-IS with no support. Any bugs discovered should be filed in the Redshift Monitor Git issue tracker.
+Redshift Monitor is made available AS-IS with no support. Any bugs discovered should be filed in the Redshift Monitor Git issue tracker.
 
 How can I contribute to redshift-monitor?
 ---------------
